@@ -1,8 +1,7 @@
 {
-	"name":"simpletest",
+	"name":"vierbergenlars/simpletest",
 	"version":"1.1.0",
-	"author":"Marcus Baker",
-	"contributors": [
+	"authors": [
 		{
 			"name":"Marcus Baker",
 			"web":"http://sourceforge.net/users/lastcraft"
@@ -13,21 +12,14 @@
 		}
 	],
 	"description":"Unit testing for PHP",
-	"scripts": {
-		"test":"php test/all_tests.php"
-	},
-	"main":"./autorun.php",
-	"bugs": {
-		"web":"http://sourceforge.net/tracker/?atid=547455&group_id=76550&func=browse"
-	},
 	"repositories": [
 		{
 			"type":"svn",
 			"url":"https://simpletest.svn.sourceforge.net/svnroot/simpletest simpletest"
 		},
 		 {
-			"type":"git",
-			"url":"git://github.com/remotecp/Loader.git"
+			"type":"vcs",
+			"url":"https://github.com/vierbergenlars/simpletest"
 		}
 	],
 	"keywords": [
@@ -37,7 +29,7 @@
 		"testing"
 	],
 	"license": "LGPL",
-	"engine": {
+	"require": {
 		"php": ">=5"
 	}
 }
