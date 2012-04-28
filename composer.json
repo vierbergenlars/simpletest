@@ -15,11 +15,11 @@
 	"repositories": [
 		{
 			"type":"svn",
-			"url":"https://simpletest.svn.sourceforge.net/svnroot/simpletest simpletest"
+			"url":"http://simpletest.svn.sourceforge.net/svnroot/simpletest simpletest"
 		},
 		 {
 			"type":"vcs",
-			"url":"https://github.com/vierbergenlars/simpletest"
+			"url":"http://github.com/vierbergenlars/simpletest"
 		}
 	],
 	"keywords": [
