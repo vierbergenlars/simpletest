@@ -4,14 +4,15 @@
 	"authors": [
 		{
 			"name":"Marcus Baker",
-			"web":"http://sourceforge.net/users/lastcraft"
+			"homepage":"http://sourceforge.net/users/lastcraft"
 		},
 		{
 			"name":"Perrick Penet",
-			"web":"http://sourceforge.net/users/pp11"
+			"homepage":"http://sourceforge.net/users/pp11"
 		}
 	],
 	"description":"Unit testing for PHP",
+        "main":"autorun.php",
 	"repositories": [
 		{
 			"type":"svn",
