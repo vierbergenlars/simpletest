@@ -1,6 +1,6 @@
 {
 	"name":"vierbergenlars/simpletest",
-	"version":"1.1.0",
+	"version":"1.1.1",
 	"authors": [
 		{
 			"name":"Marcus Baker",
@@ -12,7 +12,6 @@
 		}
 	],
 	"description":"Unit testing for PHP",
-        "main":"autorun.php",
 	"repositories": [
 		{
 			"type":"svn",
