@@ -31,5 +31,8 @@
 	"license": "LGPL",
 	"require": {
 		"php": ">=5"
+	},
+	"autoload": {
+		"classmap": [""]
 	}
 }
