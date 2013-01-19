@@ -11,16 +11,6 @@
 		}
 	],
 	"description":"Unit testing for PHP",
-	"repositories": [
-		{
-			"type":"svn",
-			"url":"http://simpletest.svn.sourceforge.net/svnroot/simpletest simpletest"
-		},
-		 {
-			"type":"vcs",
-			"url":"http://github.com/vierbergenlars/simpletest"
-		}
-	],
 	"keywords": [
 		"SimpleTest",
 		"unittest",
