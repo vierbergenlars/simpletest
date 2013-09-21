@@ -22,6 +22,9 @@
 		"php": ">=5",
 		"simpletest/simpletest": "self.version"
 	},
+	"suggest": {
+		"simpletest/simpletest": "WARNING: This package is being replaced by simpletest/simpletest. Please update your composer.json."
+	},
 	"autoload": {
 		"classmap": [""]
 	}
