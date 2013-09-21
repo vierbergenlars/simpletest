@@ -19,7 +19,8 @@
 	],
 	"license": "LGPL",
 	"require": {
-		"php": ">=5"
+		"php": ">=5",
+		"simpletest/simpletest": "self.version"
 	},
 	"autoload": {
 		"classmap": [""]
